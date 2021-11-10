@@ -25,8 +25,11 @@ PART 1 : FLUTTER INSTALLATION
 → Use android Studio (recommended)
 
 
-PART 2 : CREATE NEW PROJECT 
+PART 2 : DOWNLOAD THIS GIT OR CREATE NEW PROJECT 
 
+-> You can download this repository 
+
+-> or you can create your own project(the following guidelines are for this case): 
 
 $ flutter create dice-app
 
